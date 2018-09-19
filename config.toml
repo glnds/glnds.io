@@ -1,4 +1,4 @@
-baseURL = "https://glnds.io/"
+baseURL = "https://glnds.github.io/"
 languageCode = "en-us"
 title = "¯\\_(ツ)_/¯"
 theme = "minimal"
